@@ -5,7 +5,7 @@ Last updated: May 19, 2021
 
 R code is provided to replicate the simulations presented in Appendix 3 of <i>Mendelian randomization with repeated measures of a time-varying exposure: an application of structural mean models</i>.
 
-The MR simulations target different causal estimands when the exposure is time-varying. In all simulations, we consider data-generating models with three relevant exposure time points and assess under which conditions we can identify the causal effect of interest. The following table provides a summary of the causal estimand of interest and the assumptions made in the data-generating models for each simulation:
+The simulations assess the use of structural mean models (SMMs) when conducting Mendelian randomization analysis of time-varying exposures. In all simulations, we consider data-generating models with three relevant exposure time points and assess under which conditions we can identify the causal effect of interest. The following table provides a summary of the causal estimand of interest and the assumptions made in the data-generating models for each simulation:
 
 | Simulation | Causal estimand of interest | # of exposure measurements considered in the model | Instrument-exposure relationship changes over time? | Effect of exposure modified by previous exposure? | Presence of time-varying outcome-exposure confounding? |
 | :---: | :---: | :---: | :---: | :---: | :---: |
