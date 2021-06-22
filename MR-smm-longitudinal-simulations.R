@@ -1,5 +1,8 @@
 #--- Simulations for g-estimation of structural mean models ---
-#--------------- An application to MR analysis ---------------- 
+#--------------- An application to MR analysis ----------------
+
+#------------------------ By: Joy Shi -------------------------
+#------------------ Last updated: 06/21/2021 ------------------
 
 # Loading packages
 if (!require('tidyverse')) install.packages('tidyverse'); library('tidyverse')
