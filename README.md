@@ -17,5 +17,6 @@ The simulations assess the use of structural mean models (SMMs) when conducting 
 | A.3.6	| Period effect	| One	| No	| No	| No |
 | A.3.7	| Period effect	| Subset (two)	| Yes	| No | No |
 | A.3.8	| Period effect	| Subset (two)	| No	| No | No |
-| A.3.9	| Period effect	| Subset (two)	| Yes a	| No	| No |
+| A.3.9	| Period effect	| Subset (two)	| Yes <sup>a</sup>	| No	| No |
 
+<sup>a</sup> Instrument-exposure relationship changes over certain (but not all) time intervals
